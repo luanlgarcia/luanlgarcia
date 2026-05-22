@@ -1,16 +1,19 @@
-## Hi there 👋
+## Luan Garcia
 
-<!--
-**luanlgarcia/luanlgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev em transição · CEO @ Fermi · MG 🇧🇷
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formado em Segurança da Informação pela Universidade Católica de Brasília, comecei como técnico de suporte de TI e migrei pra gestão de tráfego pago, operando campanhas Meta e Google Ads pra clientes de diversos setores. Em 2025 fundei a Fermi, onde atuo como CEO. Hoje estou retomando o foco em desenvolvimento.
+
+### Stack atual
+
+![Stack](https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,postgres,supabase,tailwind,git,docker)
+
+### Estudando
+
+Node.js na Rocketseat
+
+### Onde me encontrar
+
+- LinkedIn: [linkedin.com/in/luan-garcia-9a8989226](https://www.linkedin.com/in/luan-garcia-9a8989226/)
