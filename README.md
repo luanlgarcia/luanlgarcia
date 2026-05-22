@@ -1,6 +1,7 @@
 ## Luan Garcia
 
-Dev em transição · CEO @ Fermi · MG 🇧🇷
+Dev em transição · CEO @ Fermi · Minas Gerais, Brasil
+
 
 ---
 
