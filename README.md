@@ -17,4 +17,4 @@ Node.js na Rocketseat
 
 ### Onde me encontrar
 
-- LinkedIn: [linkedin.com/in/luan-garcia-9a8989226](https://www.linkedin.com/in/luan-garcia-9a8989226/)
+- LinkedIn: [[linkedin.com/in/luanlgarcia](https://www.linkedin.com/in/luan-garcia-9a8989226/)](https://www.linkedin.com/in/luanlgarcia/)
