@@ -1,19 +1,22 @@
 ## Luan Garcia
 
-Dev em transição · CEO @ Fermi · Minas Gerais, Brasil
-
+Desenvolvedor backend · Node.js e TypeScript · Minas Gerais, Brasil
 
 ---
 
-Formado em Segurança da Informação pela Universidade Católica de Brasília, comecei como técnico de suporte de TI e migrei pra gestão de tráfego pago, operando campanhas Meta e Google Ads pra clientes de diversos setores. Em 2025 fundei a Fermi, onde atuo como CEO. Hoje estou retomando o foco em desenvolvimento.
+Construo APIs em Node.js e TypeScript com Fastify, NestJS, PostgreSQL e Docker, com testes unitários e end-to-end e CI rodando no GitHub Actions.
 
-### Stack atual
+Sou formado em Segurança da Informação pela Universidade Católica de Brasília e comecei em infraestrutura, como técnico de suporte de TI. Depois operei tráfego pago por alguns anos e em 2025 fundei a Fermi, onde acabei assumindo a construção dos produtos internos: um bot de atendimento no WhatsApp com Evolution API e Redis, e um agente de IA que consome a API do Meta Ads pra gerar relatório.
 
-![Stack](https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,postgres,supabase,tailwind,git,docker)
+Essa mistura de infra, segurança e produto é o que eu trago junto com o código.
 
-### Estudando
+### Stack
 
-Node.js na Rocketseat
+![Stack](https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,prisma,redis,supabase,docker,git)
+
+### Formação
+
+Formação em Node.js pela Rocketseat, 50h, concluída em julho de 2026.
 
 ### Onde me encontrar
 
